@@ -19,7 +19,7 @@ This code demonstrates the generation of synthetic MRI data and trains 5 differe
 
 For more details on these models, their implementations can be found in `model_functions.py`. The Hybrid Sequential model is inspired by the paper "A Hybrid Frequency-domain/Image-domain Deep Network for Magnetic Resonance Image Reconstruction" by Roberto Souza and Richard Frayne.
 
-Additionally, Experimenting.ipynb shows a sample output of the training process, showing the loss curves and outputs
+Additionally, `Experimenting.ipynb` shows a sample output of the training process, showing the loss curves and outputs
 
 ## Evaluating the Model on Noisy, Undersampled Data and Random Data Loss
 
