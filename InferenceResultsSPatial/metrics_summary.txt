@@ -1,0 +1,6 @@
+Reconstruction Metrics Summary
+============================
+
+MSE: 0.152389
+MAE: 0.299580
+PSNR: 8.330190
